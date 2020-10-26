@@ -16,5 +16,6 @@ public class Main {
         System.out.printf("%s har en månedlig løn på %,.0f, hvilket giver en årlig løn på %,.0f. Tilæg er på %,.0f",
                 employeeDetails.getName(),employeeDetails.getMonthlySalary(),salary,appraisal);
 
+        System.out.println("test for github");
     }
 }
